@@ -13,7 +13,7 @@ public static void main(String[] args) {
 
     // Criação do objeto de entrada de dados
 
-    Scanner entradaVetor = new Scanner([http://System.in](http://System.in "smartCard-inline") );
+    Scanner entradaVetor = new Scanner(System.in) );
 
 
     //loop
